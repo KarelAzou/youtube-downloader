@@ -21,3 +21,7 @@ python -m venv .venv
 .venv/Scripts/activate
 ::simply install the requirements to this venv
 pip install -r requirements.txt
+
+
+:: new check https://github.com/pH-7/Download-Simply-Videos-From-YouTube
+:: or straight from https://github.com/yt-dlp/yt-dlp
